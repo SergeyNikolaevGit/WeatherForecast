@@ -12,6 +12,7 @@
 		2B32C570202878AF0006DC24 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B32C56E202878AF0006DC24 /* Main.storyboard */; };
 		2B32C572202878AF0006DC24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B32C571202878AF0006DC24 /* Assets.xcassets */; };
 		2B32C575202878AF0006DC24 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B32C573202878AF0006DC24 /* LaunchScreen.storyboard */; };
+		2B32C57F2029781B0006DC24 /* Сities.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2B32C57E2029781B0006DC24 /* Сities.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2B32C571202878AF0006DC24 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2B32C574202878AF0006DC24 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2B32C576202878AF0006DC24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2B32C57E2029781B0006DC24 /* Сities.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Сities.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				2B32C571202878AF0006DC24 /* Assets.xcassets */,
 				2B32C573202878AF0006DC24 /* LaunchScreen.storyboard */,
 				2B32C576202878AF0006DC24 /* Info.plist */,
+				2B32C57E2029781B0006DC24 /* Сities.plist */,
 			);
 			path = WeatherForecast;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2B32C575202878AF0006DC24 /* LaunchScreen.storyboard in Resources */,
+				2B32C57F2029781B0006DC24 /* Сities.plist in Resources */,
 				2B32C572202878AF0006DC24 /* Assets.xcassets in Resources */,
 				2B32C570202878AF0006DC24 /* Main.storyboard in Resources */,
 			);
